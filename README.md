@@ -1,35 +1,26 @@
-# Titulo
+# DESCRIPCION
+
 
  
-# Table of Contents
+# CONTENIDO DEL REPOSITORIO
 
-* [Features](#features)
-* [What's Next](#whats-next)
-* [Installation](#installation)
-* [Getting Started](#getting-started)
-  * [Compression](#compression)
-* [Usage](#usage)
-  * [Init](#init)
-  * [Config](#config)
-  * [Record](#record)
-  * [Play](#play)
-  * [Render](#render)
-  * [Share](#share)
-  * [Generate](#generate)
-* [Configurations](#configurations)
-  * [Recording](#recording)
-  * [Delays](#delays)
-  * [GIF](#gif)
-  * [Terminal](#terminal)
-  * [Theme](#theme)
-  * [Watermark](#watermark)
-  * [Frame Box](#frame-box)
-    * [Null Frame](#null-frame)
-    * [Window Frame](#window-frame)
-    * [Floating Frame](#floating-frame)
-    * [Solid Frame](#solid-frame)
-    * [Solid Frame Without Title](#solid-frame-without-title)
-    * [Styling Hint](#styling-hint)
-* [FAQ](#faq)
-* [Issues](#issues)
-* [License](#license)
+* [#SUB CARPETAS](#0x01-emacs)
+
+# ESTE REPOSITORIO CONTIENE SUB CARPETAS EN LAS CUALES SE ENCUENTRAN TODOS LOS COMANDOS PARA DARLE UN USO BASICO A EMACS
+
+
+* [0-opening](#0-opening)
+
+* [1-saving](#1-saving)
+
+* [2-cutting](#2-cutting)
+  
+* [3-pasting](#3-pasting)
+
+* [4-searching](#4-searching)
+
+* [5-undoing](#5-undoing)
+
+* [6-quitting](#6-quitting)
+ 
+
